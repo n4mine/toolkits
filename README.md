@@ -29,4 +29,6 @@ tool | desc
 [ngxtop](https://github.com/lebinh/ngxtop) | Real-time metrics for nginx server
 [fiddler](http://www.telerik.com/fiddler) | web debugging proxy
 [sedsed](https://github.com/aureliojargas/sedsed) | Debugger, indenter and HTMLizer for sed scripts
-
+[ccat](https://github.com/jingweno/ccat) | Colorizing `cat`
+[the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster.
+[ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
