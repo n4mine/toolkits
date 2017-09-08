@@ -32,3 +32,10 @@ tool | desc
 [ccat](https://github.com/jingweno/ccat) | Colorizing `cat`
 [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | A code-searching tool similar to ack, but faster.
 [ripgrep](https://github.com/BurntSushi/ripgrep) | ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
+[OmniDiskSweeper](https://www.omnigroup.com/more) | Delete with an Iron Fist
+[diffmerge](https://sourcegear.com/diffmerge/) | an application to visually compare and merge files on Windows, OS X and Linux.
+[launchrocket](https://github.com/jimbojsb/launchrocket) | A Mac PrefPane to manage all your Homebrew-installed services
+[LICEcap](https://www.cockos.com/licecap/) | simple animated screen captures
+[hammerspoon](http://www.hammerspoon.org/) | Staggeringly powerful OS X desktop automation with Lua.
+[sequel-pro](https://www.sequelpro.com/) | database management application
+[cakebrew](https://www.cakebrew.com/) | The Mac App for Homebrew.
