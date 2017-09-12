@@ -1,14 +1,5 @@
 # toolkits
 
-## golang
- tool | desc
- ---  | ---
-[go-metrics](https://github.com/rcrowley/go-metrics) | Go port of Coda Hale's Metrics library
-[Guru](http://golang.org/s/using-guru) | golang 代码导航工具
-[go-tools](https://github.com/dominikh/go-tools#tools) | golang 代码检查工具
-
-
-
 ## misc
 tool | desc
 ---  | ---
