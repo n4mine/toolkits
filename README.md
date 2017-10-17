@@ -38,6 +38,7 @@
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep combines the usability of The Silver Searcher with the raw speed of grep.
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository
+* [WebGraphviz](http://www.webgraphviz.com/) - WebGraphviz is Graphviz in the Browser
 
 ## 编程
 * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling for Python
