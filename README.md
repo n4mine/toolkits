@@ -25,6 +25,7 @@
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - Powerful, keyboard-centric window management
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 * [cputhrottle](http://www.willnolan.com/cputhrottle/cputhrottle.html) - limit the CPU usage of a process to which it attaches
+* [AppCleaner](https://freemacsoft.net/appcleaner/) - a small application which allows you to thoroughly uninstall unwanted apps
 
 ## 运维
 * [nginx config formatter](https://github.com/1connect/nginx-config-formatter) - nginx config file formatter/beautifier written in Python.
