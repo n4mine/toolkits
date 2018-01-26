@@ -26,6 +26,7 @@
 * [lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 * [cputhrottle](http://www.willnolan.com/cputhrottle/cputhrottle.html) - limit the CPU usage of a process to which it attaches
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - a small application which allows you to thoroughly uninstall unwanted apps
+* [QuickRes](https://www.thnkdev.com/QuickRes/) - The best way to switch between screen resolutions on your Mac
 
 ## 运维
 * [nginx config formatter](https://github.com/1connect/nginx-config-formatter) - nginx config file formatter/beautifier written in Python.
