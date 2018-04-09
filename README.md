@@ -37,6 +37,7 @@
 * [nginx-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) - Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap
 * [fiddler](http://www.telerik.com/fiddler) - web debugging proxy
 * [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server
+* [goreplay](https://goreplay.org) - GoReplay is the simplest and safest way to test your app using real traffic before you put it into production
 
 ## 效率
 * [sudolikeaboss](https://github.com/ravenac95/sudolikeaboss) - Get 1password access from iterm2
