@@ -13,6 +13,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## macOS
+* [filewatcher](https://github.com/meliot/filewatcher) - A simple auditing utility for macOS
 * [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS
 * [cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew.
 * [sequel-pro](https://www.sequelpro.com/) - database management application
