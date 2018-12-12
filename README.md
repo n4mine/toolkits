@@ -33,6 +33,7 @@
 * [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/get.html) - An Application for Inspecting macOS Installer Packages
 * [TUNTAP](http://tuntaposx.sourceforge.net/index.xhtml) - Virtual network interfaces for Mac OS X
 * [proxifier](https://www.proxifier.com) - The Most Advanced Proxy Client
+* [capto](https://www.globaldelight.com/capto/) - Your Everyday Screen Capture And Video Editing Software For Mac
 
 ## 运维
 * [nginx config formatter](https://github.com/1connect/nginx-config-formatter) - nginx config file formatter/beautifier written in Python.
